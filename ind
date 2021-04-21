@@ -307,3 +307,5 @@ http://mag.seiptv.itv.world:8080/1v5d22cjxc/fghjkl1234d/672451
 http://mag.seiptv.itv.world:8080/1v5d22cjxc/fghjkl1234d/676906
 #EXTINF:-1,Sahara Filmy IN
 http://mag.seiptv.itv.world:8080/1v5d22cjxc/fghjkl1234d/676909
+#EXTINF:0 type="stream" channelId="-1", THE Q INDIA
+https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8

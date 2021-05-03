@@ -2891,3 +2891,198 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MKxFCsv.png" group-title="NEWS", Tara Bangla
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Sony Max HD
+http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Sony Wah
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Sony Max 2 Uk
+http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", B4u Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", &Xplor Hd
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", B flix
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Zee Cinema HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Zee Classic
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-176
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Mbc Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Music Ind
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Mh1
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", 9xm
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Dil Se
+https://live.hungama.com/linear/dil-se/playlist_360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Love Tv
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Colosal Tv
+https://www.webtvbd.com/download/bdix/colosal_tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Pop Pataakha
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8?Live-TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", M Tv
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Zee Cafe HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Hollywood Movies
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Zee Cafe HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Amedia Hit HBO
+http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8?Live-TV%E2%84%A2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", HBO Hits
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Sony Movies
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Mbc Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Action Hollywood Movies
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Dubai One Channel
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Dove Tv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Axn 1
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8?Live-TV%E2%84%A2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", PARAMOUNT TV
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", WarnerTV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", WarnerTV 2
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Cinemax
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8?@ShamimHossainOfficial
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", SuperSport Premier League
+http://securepoint.io:83/live/promo/promo/387268.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Star Sports 1
+http://securepoint.io:83/live/promo/promo/355934.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Star Sports 2
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Star Sports S 2
+http://221.120.204.4/STAR-SPORTS-SELECT-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Bt Sports 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Bt Sports 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Ptv Sports
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Ten Sports
+http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Sony Six
+http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Travel Xp
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Discovery Hindi
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Tlc Hindi
+https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Natgeo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", DMAX
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Fox Life HD
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8

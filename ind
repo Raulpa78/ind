@@ -2821,3 +2821,28 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi 2", &Flix
+http://mantul.biz.id:8888/294/294/6706
+#EXTINF:-1 group-title="Hindi 2", &PRIVE HD
+http://mantul.biz.id:8888/294/294/6666
+#EXTINF:-1 group-title="Hindi 2", &TV HD
+http://mantul.biz.id:8888/294/294/6705
+#EXTINF:-1 group-title="Hindi 2", 9XM TV
+http://mantul.biz.id:8888/294/294/6732
+#EXTINF:-1 group-title="Hindi 2", COLORS Infinity HD
+http://mantul.biz.id:8888/294/294/6673
+#EXTINF:-1 group-title="Hindi 2", Sony PIX HD
+http://mantul.biz.id:8888/294/294/6699
+#EXTINF:-1 group-title="Hindi 2", Sony SAB HD
+http://mantul.biz.id:8888/294/294/6697
+#EXTINF:-1 group-title="Hindi 2", SONY SIX HD
+http://mantul.biz.id:8888/294/294/6663
+#EXTINF:-1 group-title="Hindi 2", Sony Ten 3
+http://mantul.biz.id:8888/294/294/141
+#EXTINF:-1 group-title="Hindi 2", Star Gold HD
+http://mantul.biz.id:8888/294/294/6679
+#EXTINF:-1 group-title="Hindi 2", STAR SPORTS 2 HD
+http://mantul.biz.id:8888/294/294/6729
+#EXTINF:-1 group-title="Hindi 2", STAR WORLD HD
+http://mantul.biz.id:8888/294/294/6676

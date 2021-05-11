@@ -2521,213 +2521,37 @@ http://maxiptv.info:80//Ramon_user/olA@PEK6!OHS!!GBY7890@/3021
 https://dl.dropboxusercontent.com/s/c29hwhjbctrgio7/Raya%20y%20el%20ultimo%20dragon.mp4
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lyT75II.jpg" group-title="Hindi ENT.", Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lZpVnzA.jpg" group-title="Hindi ENT.", Zee TV HD
-http://208.115.215.42/ZEE_TV_HD_02/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lZpVnzA.jpg" group-title="Hindi ENT.", Zee TV USA
-http://dx3.gcdn.co/hindi-ZEETVUS/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/73QnPAr.png" group-title="Hindi ENT.", Zee Anmol
-http://208.115.215.42/ZEE_Anmol_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/JcYvEAu.jpg" group-title="Hindi ENT.", Zee Smile
-http://z5amshls.akamaized.net/smileusa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/cfm6Qf3.png" group-title="Hindi ENT.", Star Utsav
-http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="Hindi ENT.", STAR Plus HD
 http://221.120.204.4/star-plus/tracks-v1a3/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="Hindi ENT.", STAR Plus
-https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist_b478000.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="Hindi ENT.", Star Bharat
-http://dx3.gcdn.co/hindi-STARBHARATUS/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5GDpzNP.jpg" group-title="Hindi ENT.", Star Bharat HD
-http://156.146.43.241:2200/R-EX/HINDI_STAR_BHARAT_HD-in/tracks-v1a1/mono.m3u8?token=
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi ENT.", Colors TV
 http://208.115.215.42/Colors_TV_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi ENT.", Colors HD
 http://221.120.204.4/colours-hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="Hindi ENT.", Colors UK
-http://dx3.gcdn.co/hindi-COLORSUK/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PnZ169U.png" group-title="Hindi ENT.", Rishtey Cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="Hindi ENT.", Colors Rishtey
-http://208.115.215.42/Colors_Rishtey/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wiVpMl4.png" group-title="Hindi ENT.", Colors Super
-http://witv.live:8880/live/52665/91055/983.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ETVpGyf.png" group-title="Hindi ENT.", The Q
-http://dx3.gcdn.co/hindi-DHAMAALTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xCl5xxI.jpg" group-title="Hindi ENT.", Anjan
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/43tYp4d.png" group-title="Hindi ENT.", Shemaaroo TV
-https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TmxVY4P.png" group-title="Hindi ENT.", SONY SAB
-http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Hindi ENT.", SONY TV
-https://ccntv.anytv.live/sony/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/JOHchYO.jpg" group-title="Hindi ENT.", SONY Pal
-http://156.146.43.241:2200/R-EX/HINDI_SONY_PAL-in/tracks-v1a1/mono.m3u8?token=
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="Hindi ENT.", SONY TV HD
 http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Sg5i25M.png?1" group-title="Hindi ENT.", SONY SAB HD
 http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZaZ13Bk.png" group-title="Hindi Movie", Zee Anmol Cinema
-http://z5amshls.akamaized.net/zanmolcnm/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movie", Zee Cinema
-http://208.115.215.42/ZEE_Cinema_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie", Zee Cinema UK
-http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="Hindi Movie", Zee Cinema HD
-http://156.146.43.241:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="Hindi Movie", Zee Action
-http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Hindi Movie", Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="Hindi Movie", Zee Bollywood
-http://z5amshls.akamaized.net/classic/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1OLzQaE.png" group-title="Hindi Movie", Zee Classic
-http://208.115.215.42/ZEE_Classic_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qs78etj.png" group-title="Hindi Movie", Miniplex HD
-http://198.255.87.59:8080/INDIA_HINDI/MINIPLEX_HD/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/l10lqLx.jpg" group-title="Hindi Movie", Star Gold Select HD
-http://156.146.43.241:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="Hindi Movie", Star Gold
-https://ccntv.anytv.live/stargold/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="Hindi Movie", Star Gold PK
-http://dx3.gcdn.co/hindi-STARGOLDUK/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="Hindi Movie", Star Gold HD
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/e053RWs.png" group-title="Hindi Movie", Star Gold 2
-https://ott.bingebd.com/live/ngrp:movies_ok_all/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/750L5X5.png" group-title="Hindi Movie", Color Cineplex HD
-http://156.146.43.241:2200/R-EX/HINDI_CINEPLEX_HD-in/tracks-v1a1/mono.m3u8?token=
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Gocnao7.jpg" group-title="Hindi Movie", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aJ5ZuL3.jpg" group-title="Hindi Movie", WoW Cinema
-https://streamitv.multitvsolution.in/idvo/wowcinema_360p/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rC4dw0k.jpg" group-title="Hindi Movie", MBC Bollywood
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi Movie", And Picture HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v5a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KixHmqt.png" group-title="Hindi Movie", And Picture SD
-http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AI0fwMY.png" group-title="Hindi Movie", B4U Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/36.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hEcweOc.jpg" group-title="Hindi Movie", B4u Plus
-http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9z0q0KZ.jpg" group-title="Hindi Movie", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LtSVecF.png" group-title="Hindi Movie", UTV Movies
-http://156.146.43.241:2200/R-EX/HINDI_UTV_MOVIES-in/index.m3u8?token=#Intent;action=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/lEO8PZc.png" group-title="Hindi Movie", UTV Action
-http://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/987fDBI.jpg" group-title="Hindi Movie", UTV HD
-http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jWIyZJf.jpg?1" group-title="Hindi Movie", Movie Express
-http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6wyNDM6.jpg" group-title="Hindi Movie", Movie Plus
-http://global.thunderbd.com/97/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="Hindi Movie", Manoranjan TV
-https://streamitv.multitvsolution.in/idvo/manoranjantv_360p/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="Hindi Movie", Maha Movie
-https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WC16Gcq.png" group-title="Hindi Movie", Box Cinema
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DkmwOJA.jpg" group-title="Hindi Movie", Skystar Movies
-https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Hindi Movie", Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xjBktf3.jpg" group-title="Hindi Movie", Manoranjan Grand
-http://103.141.66.36/bpk-tv/10103/default/manifest.mpd?=.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AnqNjXI.jpg" group-title="Hindi Movie", Shemaroo Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MwjNJsC.jpg" group-title="Hindi Movie", House Full Movies
-https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/YUu5yCG.jpg" group-title="Hindi Movie", BollyWood Hd
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ugF2t8q.png" group-title="Hindi Movie", Enter Ten
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/XieDGjM.png" group-title="Hindi Movie", E24
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gwhgSav.png" group-title="Hindi Movie", SONY MAX
-http://45.127.244.7:8080/hls/channel6.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie", SONY MAX 2
-http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/sdXMjEC.png" group-title="Hindi Movie", SONY MAX 2 (BU)
-https://ccntv.anytv.live/sonymax2/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1sGy8yY.png" group-title="Hindi Movie", SONY WAH
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/gwhgSav.png" group-title="Hindi Movie", SONY MAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/SGdQhSD.png" group-title="Hindi Movie", SONY MAX HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/WataQBL.png" group-title="Hindi Movie", & Xplore
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/q85u7XS.jpg" group-title="Pakistan ENT.", Film World
 http://playlive.goonj.pk/filmworldweb_480p/index.m3u8
@@ -2767,129 +2591,40 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tBvt1K0.png" group-title="News", BBC World News
 http://203.162.235.41:16917
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tiSrVkq.png" group-title="News", CNN
 http://203.162.235.41:16918
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0aBQ1BU.png" group-title="News", Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5pIoGxL.png" group-title="News", DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8GD7pMd.png" group-title="News", CNBC TV
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="News", Sky News HD
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FdsVYUP.png" group-title="News", Euronews
-https://itpolly.iptv.digijadoo.net/live/euro_news/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/B4fKk6b.png" group-title="News", NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="News", DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4oMYria.jpg" group-title="News", ABP News
-https://itpolly.iptv.digijadoo.net/live/abp_news/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xQKIbf5.png" group-title="News", APN
-https://itpolly.iptv.digijadoo.net/live/apn_news/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MNvWhyp.jpg" group-title="News", Zee 24 Gonta
-http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oWBhTTs.jpg" group-title="News", Kolkata TV
-http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rmVbXpu.jpg" group-title="News", Zee News
-http://dx3.gcdn.co/hindi-ZEENEWS/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GxKLahw.png" group-title="News", NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0MZQ16V.png" group-title="News", ABP Ananda
-https://itpolly.iptv.digijadoo.net/live/abp_ananda/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BzFmgB5.png" group-title="News", AAJ TAK
-https://itpolly.iptv.digijadoo.net/live/aaj_tak/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CNTg2Fz.jpg" group-title="News", AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/x9yBdXM.jpg" group-title="News", Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4oMYria.jpg" group-title="News", ABP NEWS HD
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MKxFCsv.png" group-title="News", Tara Bangla
-https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tBvt1K0.png" group-title="NEWS", BBC World News
 http://203.162.235.41:16917
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tiSrVkq.png" group-title="NEWS", CNN
 http://203.162.235.41:16918
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0aBQ1BU.png" group-title="NEWS", Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5pIoGxL.png" group-title="NEWS", DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8GD7pMd.png" group-title="NEWS", CNBC TV
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="NEWS", Sky News HD
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FdsVYUP.png" group-title="NEWS", Euronews
-https://itpolly.iptv.digijadoo.net/live/euro_news/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/B4fKk6b.png" group-title="NEWS", NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NQ0WRUT.png" group-title="NEWS", DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4oMYria.jpg" group-title="NEWS", ABP News
-https://itpolly.iptv.digijadoo.net/live/abp_news/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/xQKIbf5.png" group-title="NEWS", APN
-https://itpolly.iptv.digijadoo.net/live/apn_news/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MNvWhyp.jpg" group-title="NEWS", Zee 24 Gonta
-http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oWBhTTs.jpg" group-title="NEWS", Kolkata TV
-http://global.thunderbd.com/46/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rmVbXpu.jpg" group-title="NEWS", Zee News
-http://dx3.gcdn.co/hindi-ZEENEWS/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GxKLahw.png" group-title="NEWS", NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0MZQ16V.png" group-title="NEWS", ABP Ananda
-https://itpolly.iptv.digijadoo.net/live/abp_ananda/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BzFmgB5.png" group-title="NEWS", AAJ TAK
-https://itpolly.iptv.digijadoo.net/live/aaj_tak/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CNTg2Fz.jpg" group-title="NEWS", AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/x9yBdXM.jpg" group-title="NEWS", Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/4oMYria.jpg" group-title="NEWS", ABP NEWS HD
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MKxFCsv.png" group-title="NEWS", Tara Bangla
-https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi 1", Sony Max HD
